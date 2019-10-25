@@ -1,2 +1,4 @@
 # Skybox
  
+For this repository, a three.js game is available. The game includes a raycaster, a skybox, and environment mapping. 
+lab10.html already shows a full-window 3D scene, with a "gun" in the center of a square platform that lies in the xz-plane. There is an orange "ray" coming out of the barrel of the gun. The gun can pivot around on its base. The orientation of the gun is controlled by the position of the mouse. The vertical mouse coordinate controls the x-rotation of the gun, and the horizontal mouse coordinate controls the z-rotation of the gun. The left- and right-arrow keys, or alternatively the 'A' and 'D' keys, can be used to rotate the view around the y-axis; holding down the shift key will speed up the rotation.
